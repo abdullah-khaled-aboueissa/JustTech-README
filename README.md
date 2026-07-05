@@ -104,20 +104,6 @@
 - **User Adoption:** Target 50+ users (in progress)
 - **Course Completion:** Target 70% completion rate (in progress)
 
----
-
-## 📁 Project Files
-
-| File | Description | Link |
-|------|-------------|------|
-| Backend API | ASP.NET Core Web API | [Source Code](https://github.com/MohAdel13/DEPI-GP/tree/main/Backend) |
-| Frontend | HTML/CSS/JS Application | [Source Code](https://github.com/MohAdel13/DEPI-GP/tree/main/Frontend) |
-| Database Script | SQL Schema & Migrations | [Migrations](https://github.com/MohAdel13/DEPI-GP/tree/main/Backend/JustTech/JustTech.Infrastructure/Migrations) |
-| API Documentation | Swagger | [Live API](https://justtech.runasp.net/swagger) |
-| Live Demo | Deployed Application | [Frontend Live](https://abdullah-khaled-aboueissa.github.io/JustTech-Frontend/) |
-| Presentation | Final PPTX | [View](https://docs.google.com/presentation/d/1qozLoMd1o1Na5J3vqnh6K11PikIyVuuzA_mri2abm1g/edit?usp=sharing) |
-| Poster | Visual Identity | [View](https://your-link.com) |
-
 
 ---
 
